@@ -1,0 +1,101 @@
+restaurant_name,cuisine,cost_for_two_inr,num_reviews,rating
+Spice Hub,North Indian,600,45,2.7
+Green Bowl,Salads,450,60,2.9
+The Pasta Club,Italian,900,85,3.0
+Biryani Junction,Mughlai,550,110,3.2
+Wok & Roll,Chinese,700,140,3.3
+Dosa Delight,South Indian,350,175,3.4
+Chai Tapri,Cafe,250,210,3.4
+Burger Point,Fast Food,400,260,3.6
+Curry Leaves,South Indian,500,310,3.7
+Tandoori Nights,North Indian,800,370,3.7
+Pizza Mania,Italian,650,420,3.8
+Sizzler House,Continental,1200,490,3.9
+Urban Cafe,Cafe,600,550,4.0
+Golden Dragon,Chinese,850,620,4.0
+Royal Feast,Mughlai,1100,700,4.1
+Sweet Treats,Bakery,300,780,4.1
+Kabab Corner,North Indian,750,860,4.2
+The Daily Roast,Cafe,500,950,4.2
+Coastal Waves,Seafood,1300,1050,4.3
+The Belgian Waffle,Desserts,400,1160,4.3
+Noodle Bar,Asian,650,1280,4.3
+Barbeque Nation,North Indian,1600,1400,4.4
+Madras Cafe,South Indian,450,1530,4.4
+Little Italy,Italian,1400,1670,4.4
+Mainland China,Chinese,1500,1820,4.4
+Punjabi Grill,North Indian,1700,1980,4.5
+Empire Restaurant,Mughlai,800,2150,4.5
+Truffles,American,700,2340,4.5
+Toit Brewpub,Finger Food,2000,2540,4.6
+Paradise Biryani,Hyderabadi,900,2750,4.6
+Farzi Cafe,Modern Indian,1800,2980,4.6
+Glen's Bakehouse,Cafe,600,3220,4.6
+Bawarchi,Biryani,750,3470,4.6
+Karim's,Mughlai,1000,3730,4.7
+Haldiram's,Street Food,400,4000,4.7
+Smoke House Deli,European,1900,4300,4.7
+Chai Point,Beverages,250,55,2.8
+Rolls King,Fast Food,300,95,3.1
+The Big Chill,Continental,1500,1350,4.4
+Saravana Bhavan,South Indian,500,2850,4.6
+Social,Finger Food,1600,3100,4.6
+Nando's,Portuguese,1400,1750,4.4
+Subway,Healthy Food,400,820,4.1
+KFC,Fast Food,500,1920,4.3
+McDonald's,Fast Food,450,3350,4.5
+Domino's Pizza,Pizza,600,3800,4.6
+Pizza Hut,Pizza,700,2400,4.4
+Cafe Coffee Day,Cafe,400,1220,4.2
+Starbucks,Cafe,800,2650,4.5
+Taco Bell,Mexican,550,910,4.1
+Chili's Grill & Bar,American,1800,1620,4.4
+Mamagoto,Asian,1500,1480,4.4
+Sagar Ratna,South Indian,600,1950,4.3
+Bikanervala,Mithai,400,1580,4.2
+Theobroma,Bakery,500,2250,4.5
+Pind Balluchi,North Indian,1100,1120,4.2
+Vaishali,South Indian,350,3600,4.6
+Bademiya,Street Food,600,2100,4.4
+Britannia & Co.,Parsi,900,1850,4.5
+Peter Cat,Continental,1200,3900,4.7
+Flurys,Bakery,700,2900,4.6
+Arsalan,Mughlai,850,3400,4.6
+Mocambo,Continental,1300,3150,4.6
+Kake Da Hotel,North Indian,500,1650,4.3
+Moti Mahal,North Indian,1200,2050,4.4
+Gulati,North Indian,1800,2700,4.6
+Indian Accent,Contemporary,4500,3550,4.8
+Bukhara,North Indian,5000,4100,4.8
+Dum Pukht,Awadhi,4500,2450,4.7
+Olive Bar & Kitchen,Mediterranean,3500,2300,4.6
+SodaBottleOpenerWala,Parsi,1400,1720,4.4
+Yauatcha,Dim Sum,3000,1900,4.5
+Pa Pa Ya,Asian,2500,1420,4.4
+Dakshin,South Indian,2800,1250,4.3
+Karavalli,Seafood,3200,2200,4.6
+Vidyarthi Bhavan,South Indian,300,4200,4.7
+MTR,South Indian,400,3950,4.7
+CTR Shri Sagar,South Indian,250,2950,4.6
+Corner House,Ice Cream,350,3850,4.7
+Naturals Ice Cream,Desserts,300,4150,4.7
+Giani's,Desserts,250,1320,4.2
+Keventers,Beverages,350,1180,4.2
+Wow! Momo,Fast Food,350,1680,4.2
+Faasos,Wraps,350,1450,4.1
+Behrouz Biryani,Biryani,700,2120,4.4
+Box8,Desi Meals,400,890,4.0
+Ovenstory Pizza,Pizza,650,1020,4.1
+Mad Over Donuts,Desserts,350,760,4.0
+Dunkin' Donuts,Desserts,450,680,3.9
+Chaayos,Tea,350,1260,4.2
+The Beer Cafe,Pub,1500,1520,4.3
+Hard Rock Cafe,American,2500,2380,4.5
+TGIF,American,2200,1880,4.4
+Chilis,Tex-Mex,1700,1780,4.4
+Barista,Cafe,450,640,3.9
+Costa Coffee,Cafe,550,790,4.0
+Krispy Kreme,Desserts,400,940,4.1
+Baskin Robbins,Ice Cream,350,1140,4.2
+Keventer's Milkshakes,Beverages,300,830,4.1
+Mocha Cafe,Cafe,900,1290,4.2
